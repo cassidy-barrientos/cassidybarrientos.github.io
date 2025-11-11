@@ -13,5 +13,5 @@ gem "jekyll", "~> 3.9.5"
 gem "webrick"
 
 # If you use the timeago plugin, keep it here:
-gem "jekyll-timeago", "~> 0.13.1"
+#gem "jekyll-timeago", "~> 0.13.1"
 
