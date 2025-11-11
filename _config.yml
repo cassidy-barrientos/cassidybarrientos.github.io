@@ -35,3 +35,5 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
+headshot: assets/images/headshot.jpg
